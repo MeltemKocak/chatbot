@@ -1,4 +1,4 @@
-# chat-bot
+# chatbot
 
 <img src="screen.png" />
 
