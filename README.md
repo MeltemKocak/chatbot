@@ -9,7 +9,7 @@
 <h5>Clone : </h5>
 
 ```
-git clone https://github.com/yavuzim/chat-bot.git
+git clone https://github.com/MeltemKocak/chatbot.git
 ```
 
 <h5>Install Streamlit :</h5>
